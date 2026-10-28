@@ -1,0 +1,8 @@
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="DefaultPath">
+    <BepinExPath>C:\Users\你的用户名\AppData\Roaming\r2modmanPlus-local\DysonSphereProgram\profiles\你的配置档名\BepInEx\</BepinExPath>
+    <DSPAssemblyPath>D:\steam\steamapps\common\Dyson Sphere Program\DSPGAME_Data\Managed\</DSPAssemblyPath>
+    <DebugModDir>DockSpeed</DebugModDir>
+    <ReleasePath>$(SolutionDir)release\</ReleasePath>
+  </PropertyGroup>
+</Project>

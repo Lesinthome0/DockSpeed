@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+release/
+thunderstore/plugins/
+DefaultPath.props
+*.user
+*.suo
+.idea/
+*.log
