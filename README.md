@@ -2,7 +2,7 @@
 
 DockSpeed 是一个《戴森球计划》BepInEx 模组，用于加快物流运输机和星际物流运输船进出物流塔、起降以及曲速前后飞行段的速度。
 
-[Thunderstore 页面](https://thunderstore.io/c/dyson-sphere-program/p/sinthome/DockSpeed/) · [GitHub 源码](https://github.com/Lesinthome0/DockSpeed)
+[Thunderstore 页面](https://thunderstore.io/c/dyson-sphere-program/p/sinthome/DockSpeed/)
 
 ## 功能
 
