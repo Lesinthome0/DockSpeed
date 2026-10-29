@@ -1,9 +1,0 @@
-{
-  "name": "DockSpeed",
-  "version_number": "1.1.3",
-  "website_url": "https://github.com/Lesinthome0/DockSpeed",
-  "description": "加快物流运输机与星际运输船进出物流塔、起降及曲速前后飞行段的速度。",
-  "dependencies": [
-    "xiaoye97-BepInEx-5.4.17"
-  ]
-}
